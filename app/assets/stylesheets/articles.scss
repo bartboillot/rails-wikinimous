@@ -1,0 +1,27 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.col-sm-offset-2 {
+  margin-left: 16.6666666667%;
+}
+
+article {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 120%;
+}
+
+h1 small {
+  font-size: 65%;
+}
+
+h1 a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+h2 a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
